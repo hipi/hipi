@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+> 不忘初心方得始终 初心易得始终难守
+
+🤔 I’m looking for help with ...
+
 <!--
 **cyea/cyea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
