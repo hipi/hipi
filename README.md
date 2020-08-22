@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 > 不忘初心方得始终 初心易得始终难守
+> Don’t forget your original intention, always get it
 
 #### Frontend
 
