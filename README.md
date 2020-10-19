@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-> 不忘初心方得始终 初心易得始终难守  
-> Don’t forget your original intention, always get it
+> 不忘初心方得始终 初心易得始终难守
+> Don’t forget your original intention, always get it  
+
+<img src=https://github.com/Amchuz/Amchuz/blob/master/coding.gif width="110" height="100"> 
 
 ![](https://komarev.com/ghpvc/?username=yyx990803&color=brightgreen)
 
