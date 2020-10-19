@@ -3,6 +3,8 @@
 > 不忘初心方得始终 初心易得始终难守  
 > Don’t forget your original intention, always get it
 
+![](https://komarev.com/ghpvc/?username=yyx990803&color=brightgreen)
+
 #### Frontend
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
