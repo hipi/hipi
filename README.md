@@ -5,7 +5,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=cyea&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=hipi&color=brightgreen)
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -22,14 +22,14 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <a href="https://github.com/AVS1508">
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cyea&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cyea&layout=compact&langs_count=8&theme=react"/>
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hipi&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hipi&layout=compact&langs_count=8&theme=react"/>
 </a>
 
 
 
 <!--
-**cyea/cyea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hipi/hipi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🤔 I’m looking for help with ...
 
