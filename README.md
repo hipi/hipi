@@ -21,7 +21,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/hipi">
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hipi&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hipi&layout=compact&langs_count=8&theme=react"/>
 </a>
