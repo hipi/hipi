@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-> No cross, no crown.
+> Always be curious.
 
 
 
