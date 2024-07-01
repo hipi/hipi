@@ -1,10 +1,11 @@
-### 👋 Hi there
+### 👋 Hi I'm HIPI
 
-> Always be curious.
-
-
+<img align="right" width="512" height="256" src="https://static.xxkid.com/public/home.svg">
+<br/>
 
 ![](https://komarev.com/ghpvc/?username=hipi&color=brightgreen)
+
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -22,11 +23,15 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-2B3A42?style=flat-square&logo=TypeScript)
+![Vite](https://img.shields.io/badge/-Vite-eeeeee?style=flat-square&logo=vite)
 ![Webpack](https://img.shields.io/badge/-Webpack-2B3A42?style=flat-square&logo=webpack)
 ![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=Vue.js&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=React)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+
+
+--- 
 
 ### ⚙️ &nbsp;GitHub Analytics
 
