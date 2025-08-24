@@ -1,7 +1,6 @@
 ### 👋 Hi I'm HIPI
 
-<img align="right" width="512" height="256" src="https://static.xxkid.com/public/home.svg">
-<br/>
+
 
 ![](https://komarev.com/ghpvc/?username=hipi&color=brightgreen)
 
